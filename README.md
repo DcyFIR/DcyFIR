@@ -1,3 +1,7 @@
+Hello and Welcome! 👋
+
+I'm DcyFIR, my friends call me Bubba. 
+
 Professionally I am a Cybersecurity specialist 
 - Specialization in:
   - Digital Forensics 
@@ -13,7 +17,7 @@ Personally I have a interest in AI and ML
 - Mostly generative AI
 - Currently taking courses by IBM in AI Development and AI Engineering
 
-Random projects will be found within
+Random projects/notes will be found within
   
 
 <!---
